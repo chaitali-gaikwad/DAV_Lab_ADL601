@@ -5,7 +5,7 @@
 | :--: | ------------------ | :----: |
 | 1. | [Getting introduced to data analytics libraries in Python and R](https://github.com/chaitali-gaikwad/DAV_Lab_ADL601/blob/main/Experiments/67_Chaitali_Exp1.ipynb)| LO1 |
 | 2. | [Simple Linear Regression in Python](https://github.com/chaitali-gaikwad/DAV_Lab_ADL601/blob/main/Experiments/67_Chaitali_Exp2.ipynb)| LO2 |
-| 3. | Multiple Linear Regression in Python | LO2 |
+| 3. | [Multiple Linear Regression in Python](https://github.com/chaitali-gaikwad/DAV_Lab_ADL601/blob/main/Experiments/67_Chaitali_Exp3.ipynb)| LO2 |
 | 4. | Time Series Analysis in Python | LO3 |
 | 5. | Implementation of ARIMA model in python | LO3 |
 | 6. | Implementation of Time series Decomposition and ACF and PACF | LO3 |
