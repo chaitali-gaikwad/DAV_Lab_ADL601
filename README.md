@@ -11,6 +11,6 @@
 | 6. | Implementation of Time series Decomposition and ACF and PACF | LO3 |
 | $ 7. | [Design Text Analytics Application on a given data set.](https://github.com/chaitali-gaikwad/DAV_Lab_ADL601/blob/main/Experiments/67_Chaitali_Exp7_DAV.ipynb)| LO4 |
 | 8. | [Set Up a D3.js Environment, Select Elements in D3, Modify Elements in D3,Data Loading in D3](https://github.com/chaitali-gaikwad/DAV_Lab_ADL601/blob/main/Experiments/67_Chaitali_Exp8_DAV.ipynb) | LO5, LO6 |
-| 9. | Create a World Map with d3.js |LO5, LO6 | 
-| 10. | Event Handling with D3.js | LO5, LO6 |
+| 9. | [Create a World Map with d3.js](https://github.com/chaitali-gaikwad/DAV_Lab_ADL601/blob/main/Experiments/67_Chaitali_Exp9_DAV.ipynb) |LO5, LO6 | 
+| 10. | [Event Handling with D3.js](https://github.com/chaitali-gaikwad/DAV_Lab_ADL601/blob/main/Experiments/67_Chaitali_Exp10_DAV.ipynb) | LO5, LO6 |
 | 11. | [Two visualization experiments in python using different Libraries](https://github.com/chaitali-gaikwad/DAV_Lab_ADL601/blob/main/Experiments/67_Chaitali_Exp11_DAV.ipynb) | LO5, LO6 |
