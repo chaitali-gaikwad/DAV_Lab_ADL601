@@ -14,4 +14,4 @@
 | 9. | [Create a World Map with d3.js](https://github.com/chaitali-gaikwad/DAV_Lab_ADL601/blob/main/Experiments/67_Chaitali_Exp9_DAV.ipynb) |LO5, LO6 | 
 | 10. | [Event Handling with D3.js](https://github.com/chaitali-gaikwad/DAV_Lab_ADL601/blob/main/Experiments/67_Chaitali_Exp10_DAV.ipynb) | LO5, LO6 |
 | 11. | [Two visualization experiments in python using different Libraries](https://github.com/chaitali-gaikwad/DAV_Lab_ADL601/blob/main/Experiments/67_Chaitali_Exp11_DAV.ipynb) | LO5, LO6 |
-| 12. | [DAV Presentation ggplot]([https://github.com/chaitali-gaikwad/DAV_Lab_ADL601/blob/main/Experiments/67_Chaitali_Exp11_DAV.ipynb](https://github.com/chaitali-gaikwad/DAV_Lab_ADL601/blob/main/Presentation/ggplot_DAV_Presentation_67.ipynb)) |  |
+| 12. | [DAV Presentation ggplot]([https://github.com/chaitali-gaikwad/DAV_Lab_ADL601/blob/main/Experiments/67_Chaitali_Exp11_DAV.ipynb](https://github.com/chaitali-gaikwad/DAV_Lab_ADL601/blob/main/Presentation/ggplot_DAV_Presentation_67.ipynb) |  |
